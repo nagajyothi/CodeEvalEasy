@@ -1,0 +1,5 @@
+C:\NGunti\CSharpEssentialTraining\HelloWorld\bin\Debug\HelloWorld.exe
+C:\NGunti\CSharpEssentialTraining\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\NGunti\CSharpEssentialTraining\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\NGunti\CSharpEssentialTraining\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\NGunti\CSharpEssentialTraining\HelloWorld\obj\x86\Debug\HelloWorld.csprojResolveAssemblyReference.cache
